@@ -4,8 +4,6 @@ I'm Sarvesh, an Information Technology student from India.
 
 I build backend systems and intelligent web applications.
 
-If I learn something new, I build something with it.
-
 My main tech stack is Python, Django, and C++.  
 I enjoy designing scalable APIs and working on system-level projects.
 
